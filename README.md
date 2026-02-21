@@ -1,5 +1,3 @@
-Here’s a clean and simple **README file** for the topic **Flask** that you can use for a project.
-
 ---
 
 # Flask Web Application
